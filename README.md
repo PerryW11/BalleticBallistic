@@ -1,6 +1,6 @@
 # 🚀 -- BalleticBallistic -- 🚀
 
-# Houston, we have a problem..
+## Houston, we have a problem..
 
 You board your rocketship and prepare your flight, but encounter an immediately.
 **You're not heading towards space!**
